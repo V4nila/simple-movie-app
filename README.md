@@ -9,6 +9,8 @@ I built this app to practice React basics like fetching data, managing state, an
 Search movies by title 🔍
 View movie details: poster, release date, rating, and plot 🎥
 Responsive design for desktop 💻
+
+
 🛠️ Tech Stack
 
 React | OMDB API | CSS
